@@ -25,8 +25,9 @@ Accuracy: Achieved a high correlation between predicted and actual sales (see "A
 Actionable Output: The system generates a timestamped Procurement Alert Report (.xlsx) ready for use by purchasing departments.
 
 🖼️ Visual Proof
-(Pro-tip: Take screenshots from your Colab and upload them to your GitHub repo, then link them here)
+
 AI Accuracy Plot: ![Model Accuracy]<img width="761" height="600" alt="image" src="https://github.com/user-attachments/assets/bd78902b-0cca-4dd5-b72c-0235c016b7a2" />
 )
 )
-The Procurement Report: ![Final Report](link-to-your-excel-preview-image.png)
+The Procurement Report: ![Final Report](<img width="798" height="238" alt="image" src="https://github.com/user-attachments/assets/c4868947-1158-4ee5-9f24-ca402d3bdc6a" />
+)
