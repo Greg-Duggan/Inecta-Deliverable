@@ -26,7 +26,8 @@ Actionable Output: The system generates a timestamped Procurement Alert Report (
 
 🖼️ Visual Proof
 
-AI Accuracy Plot: ![Model Accuracy]<img width="761" height="600" alt="image" src="https://github.com/user-attachments/assets/bd78902b-0cca-4dd5-b72c-0235c016b7a2" />
+AI Accuracy Plot: ![Model Accuracy]<img width="727" height="511" alt="Screenshot 2026-04-19 235058" src="https://github.com/user-attachments/assets/c6e47bfc-7eb4-40fe-a92a-661c0a0fe810" />
+" />
 )
 )
 
