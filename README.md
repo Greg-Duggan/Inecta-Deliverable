@@ -1,6 +1,6 @@
 # Inecta-Deliverable
 📦 AI-Powered Predictive Procurement Engine
-Developer: [Gregory Duggan] | Domain: ERP & Supply Chain Analytics
+Developer: Gregory Duggan | Domain: ERP & Supply Chain Analytics
 
 🎯 The Business Problem
 Traditional ERP systems (like SAP, Oracle, or Microsoft Dynamics) are often reactive. They tell you what was sold yesterday, but they don't always predict what you will need tomorrow. This leads to:
@@ -29,5 +29,6 @@ Actionable Output: The system generates a timestamped Procurement Alert Report (
 AI Accuracy Plot: ![Model Accuracy]<img width="761" height="600" alt="image" src="https://github.com/user-attachments/assets/bd78902b-0cca-4dd5-b72c-0235c016b7a2" />
 )
 )
+
 The Procurement Report: ![Final Report](<img width="798" height="238" alt="image" src="https://github.com/user-attachments/assets/c4868947-1158-4ee5-9f24-ca402d3bdc6a" />
 )
